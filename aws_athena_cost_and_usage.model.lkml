@@ -1,4 +1,4 @@
-connection: "aws_optimizer"
+connection: "dev_cloudtrail_logs"
 
 # include all the views
 include: "*.view"
