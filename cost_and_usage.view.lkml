@@ -1,5 +1,5 @@
 view: cost_and_usage {
-  sql_table_name: cloudtrail_logs.cost_and_usage_raw ;;
+  sql_table_name: default.cost_and_usage ;;
   suggestions: no
 
   dimension: bill_billing_entity {
